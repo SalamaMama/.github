@@ -110,7 +110,7 @@ We extend our gratitude to all individuals and organizations whose contributions
 
 - **Danroy Mwangi** 
 - **Nelson Kamau** 
-- **Samson Mokaya Ongera**
+- **Samson Mokaya**
 - **Nicole Ngina**
 
 Together, we continue to strive towards making a significant impact on the well-being of new mothers worldwide.
