@@ -3,6 +3,34 @@
 ## About Salama Mama
 Salama Mama is an innovative digital platform designed to assist new mothers dealing with postpartum depression (PPD) using artificial intelligence technology. This intelligent application offers soothing conversations, relevant insights, and customized resources according to each user's unique situation and requirements. With a focus on Goal 3: Good Health & Well-being, Goal 10: Reduced Inequalities, and Goal 4: Quality Education as part of the United Nations' Sustainable Development Goals, Salama Mama strives to make a lasting positive impact on users and their communities. The app serves as a secure haven for new mothers seeking assistance with their mental health during the critical postpartum phase by offering personalized data and aid, thereby promoting self-efficacy and resiliency amidst challenges.
 
+## Inspiration
+Our team identified the significant challenge faced by many women struggling with postpartum depression, especially among underrepresented communities lacking adequate mental health care resources. Expensive treatments and therapies often hinder these individuals from obtaining essential support during such vulnerable times. Recognizing the potential impact of combining our expertise and innovative minds, we resolved to develop creative solutions capable of providing global assistance to women dealing with postpartum depression. Ultimately, our goal is aligned with UN Sustainable Development Goals (SDGs) 3—Good Health and Well-being and SDG 10—Reduced Inequalities, aiming to bridge gaps and empower underserved populations worldwide and Reducing Inequalities for marginalized populations suffering from postpartum depression.
+
+## ⚙ What it does -
+- Mood Tracking: Allows users to log and monitor changes in their mood over time. Providing insights into patterns and trends helps users understand fluctuations in their emotional states.
+
+- Dynamic Feed Content: Offers customized content tailored to individual users, including activities, educational materials, and curated articles intended to encourage, educate, and inspire users towards improvement.
+  
+- Personalized User Story Preferences: Enables users to select topics they resonate with or face difficulties in order to display relatable experiences shared by others navigating similar issues.
+  
+- Motivational Quotes: Presents daily inspirational quotes carefully selected to boost morale and instill hope amid challenging circumstances.
+Accessibility – Text-to-Speech Functionality: Caters to differently-abled users by delivering core information via synthesized voices, enhancing overall inclusivity and experience.
+
+## 💪 Challenges we ran into -
+The model was overwriting previous prompts which gave us a challenge during text to speech generation when two or more prompts were available.
+
+## 📌 Accomplishments that we're proud of -
+We are proud of the entire system as a whole and our heart is fully content to choose one feature over the other.
+
+## 📚 What we learned -
+We learnt how to use GitHub & conventional commits, using Gemini AI API, prompt engineering, text-to-speech, team collaboration and personalization with AI.
+
+## ⏭ What's next for -
+- Helping the user set goals for the day
+- Creating mailing lists and notification
+- Having a statisics created for the moods over a week
+- Reverse prompting the AI
+
 ## Getting Started
 
 Follow these instructions to set up the Salama Mama project on your local machine for development and testing purposes.
