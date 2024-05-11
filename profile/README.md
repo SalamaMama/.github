@@ -87,10 +87,11 @@ Set up your Firebase project and ensure the `firebase.jsx` file in the frontend 
 ## Technology Stack
 
 - **Frontend:** React (JavaScript)
-- **Backend:** Flask (Python 3.8+) | Flask-CORS | Requests | google.generativeai | gtts
-- **AI Model:** Firebase Firestone
+- **Backend:** Flask (Python 3.8+) | Flask-CORS | Requests | google.generativeai | gtts | Firebase
+- **AI Model:** Gemini
+- **Deployment:** Render for backend & Vercel for frontend
 - **Database & Authentication:** Firebase
-- - **Generative Models Endpoint Consumption:** Backend server hosted on Render.com
+- **Generative Models Endpoint Consumption:** Backend server hosted on Render.com
 - **Component Library:** Flowbite
 
 ## How to Use
