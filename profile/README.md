@@ -1,3 +1,6 @@
+For immediate access, visit our live platform at [Salama Mama](https://salama-mama.vercel.app/)
+![alt text](https://salama-mama.vercel.app/images/logo.png)
+
 # 👋 Welcome to Salama Mama!
 
 ## About Salama Mama
@@ -93,8 +96,6 @@ Set up your Firebase project and ensure the `firebase.jsx` file in the frontend 
 ## How to Use
 
 After initiating the frontend and backend servers, open http://localhost:5173 to access the Salama Mama web application. Users can engage with the interactive frontend for recommendations tailored to their needs.
-
-For immediate access, visit our live platform at [Salama Mama](https://salama-mama.vercel.app/)
 
 ## Contributing
 
