@@ -1,7 +1,8 @@
 # 👋 Welcome to Salama Mama!
 
 ## About Salama Mama
-Salama Mama is an innovative digital platform designed to assist new mothers dealing with postpartum depression (PPD) using artificial intelligence technology. This intelligent application offers soothing conversations, relevant insights, and customized resources according to each user's unique situation and requirements. With a focus on Goal 3: Good Health & Well-being, Goal 10: Reduced Inequalities, and Goal 4: Quality Education as part of the United Nations' Sustainable Development Goals, Salama Mama strives to make a lasting positive impact on users and their communities. The app serves as a secure haven for new mothers seeking assistance with their mental health during the critical postpartum phase by offering personalized data and aid, thereby promoting self-efficacy and resiliency amidst challenges.
+Salama Mama is an innovative digital platform designed to assist new mothers dealing with postpartum depression (PPD) using artificial intelligence technology. This intelligent application offers soothing conversations, relevant insights, and customized resources according to each user's unique situation and requirements. With a focus on Goal 3: Good Health & Well-being, Goal 10: Reduced Inequalities, and Goal 4: Quality Education as part of the United Nations' Sustainable Development Goals, Salama Mama strives to make a lasting positive impact on users and their communities. The app serves as a secure haven for new mothers seeking assistance with their mental health during the critical postpartum phase by offering personalized data and aid, thereby promoting self-efficacy and resiliency amidst challenges. 
+Here is the link to the site: https://salama-mama.vercel.app/
 
 ## Getting Started
 
